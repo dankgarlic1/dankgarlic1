@@ -1,5 +1,3 @@
-
-
 # Hi there, I'm Harshit Raizada  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHg1dmsxaTdwcDR3MHR6d3ExdzRubHRscXZhaXhia3p1MTA1N2UzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/efaB8eipdYqiy2b3Kn/giphy.gif" width="75px"/>
 
 
