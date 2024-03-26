@@ -2,9 +2,9 @@
 
 
 # 💫 About Me:
-🌱 I’m a Flutter and Full Stack Web3 Developer<br>
+🌱 I’m a Flutter and Full Stack Web Developer<br>
 👯 I’m looking to collaborate with developers and founders<br>
-🥅 [2024] Goals: Learn more about Web3 and build awesome applications<br>
+🥅 [2024] Goals: Learn more about latest tech and build awesome applications<br>
 ⚡ Fun fact: I am a Boxer🥊 
 
 # 🌐 Socials:
