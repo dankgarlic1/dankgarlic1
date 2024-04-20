@@ -20,10 +20,6 @@
     <a href="https://medium.com/@raizadaharshit2004">
         <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
-    &nbsp;
-    <a href="https://twitter.com/HarshitRaizada">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
 </div>
  
 
