@@ -2,9 +2,9 @@
 
 
 # 💫 About Me:
-🌱 I’m a Flutter and Full Stack Web Developer<br>
+🌱 I’m a Full Stack Web and Flutter Developer<br>
 👯 I’m looking to collaborate with developers and founders<br>
-🥅 [2024] Goals: Learn more about latest tech and build awesome applications<br>
+🥅 [2024] Goals: Learn more about the latest tech and build awesome applications<br>
 ⚡ Fun fact: I am a Boxer🥊 
 
 # 🌐 Socials:
@@ -43,11 +43,14 @@
     <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" title="Figma" alt="Figma"/>&nbsp;
     <img src="https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" title="npm" alt="npm"/>&nbsp;
     <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js" alt="Node.js"/>&nbsp;
+    <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" title="Mongoose" alt="Mongoose"/>&nbsp;
+    <img src="https://img.shields.io/badge/Zod-512BD4?style=for-the-badge&logo=zod&logoColor=white" title="Zod" alt="Zod"/>&nbsp;
     <img src="https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" title="Yarn" alt="Yarn"/>&nbsp;
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>&nbsp;
     <img src="https://img.shields.io/badge/Waffle-%23ff69b4.svg?style=for-the-badge&logo=waffle&logoColor=white" title="Waffle" alt="Waffle"/>&nbsp;
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" title="React" alt="React"/>&nbsp;
     <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" title="Next.js" alt="Next.js"/>&nbsp;
+    <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" title="Recoil" alt="Recoil"/>&nbsp;
     <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" title="AWS" alt="AWS"/>&nbsp;
     <img src="https://img.shields.io/badge/Google%20API-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" title="Google API" alt="Google API"/>&nbsp;
     <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy" alt="NumPy"/>&nbsp;
