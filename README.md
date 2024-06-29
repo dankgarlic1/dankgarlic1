@@ -55,7 +55,11 @@
     <img src="https://img.shields.io/badge/Google%20API-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" title="Google API" alt="Google API"/>&nbsp;
     <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy" alt="NumPy"/>&nbsp;
     <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" alt="Pandas"/>&nbsp;
-    <img src="https://img.shields.io/badge/Seaborn-%230A3D62.svg?style=for-the-badge&logo=seaborn&logoColor=white" title="Seaborn" alt="Seaborn"/>
+    <img src="https://img.shields.io/badge/Seaborn-%230A3D62.svg?style=for-the-badge&logo=seaborn&logoColor=white" title="Seaborn" alt="Seaborn"/>&nbsp;
+    <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript"/>&nbsp;
+<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Tailwind CSS" alt="Tailwind CSS"/>&nbsp;
+<img src="https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" title="Prisma" alt="Prisma"/>
 </div>
 
 
