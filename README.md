@@ -74,6 +74,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dankgarlic1&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dankgarlic1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 🏆 GitHub Trophies:
+![trophy](https://github-profile-trophy.vercel.app/?username=dankgarlic1&theme=algolia&no-frame=true&no-bg=true&margin-w=4&title=-Stars,-Followers,-Issues,-Reviews)
+
 # 🕒 Wakatime Stats:
 ![Wakatime Stats](https://wakatime.com/share/@harshit1/3bbc4d6b-6346-40a4-bf03-5b5bf6396fef.svg)
 
@@ -81,34 +84,3 @@
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<!--
-**dankgarlic1/dankgarlic1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@harshit1/db4e684c-3749-4615-90d2-cc7063058ea5.png" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@harshit1/28961b44-93fd-40be-a4e9-0c5b3083654f.png" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@harshit1/0ac01149-495a-4fd1-ad8d-193238870bbc.png" /></a>
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
