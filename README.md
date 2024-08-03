@@ -57,11 +57,14 @@
     <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" alt="Pandas"/>&nbsp;
     <img src="https://img.shields.io/badge/Seaborn-%230A3D62.svg?style=for-the-badge&logo=seaborn&logoColor=white" title="Seaborn" alt="Seaborn"/>&nbsp;
     <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript"/>&nbsp;
 <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Tailwind CSS" alt="Tailwind CSS"/>&nbsp;
 <img src="https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" title="Prisma" alt="Prisma"/>&nbsp;
 <img src="https://img.shields.io/badge/OpenAI-%23434343.svg?style=for-the-badge&logo=openai&logoColor=white" title="OpenAI" alt="OpenAI"/>&nbsp;
-<img src="https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" title="Material-UI" alt="Material-UI"/>
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript"/>&nbsp;
+<img src="https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" title="Material-UI" alt="Material-UI"/>&nbsp;
+    <img src="https://img.shields.io/badge/Hono-%23F0F0F0.svg?style=for-the-badge&logo=hono&logoColor=black" title="Hono" alt="Hono"/>&nbsp;
+<img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" title="Cloudflare" alt="Cloudflare"/>
+
 
     
 </div>
