@@ -63,6 +63,10 @@
 <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript"/>&nbsp;
 <img src="https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" title="Material-UI" alt="Material-UI"/>&nbsp;
     <img src="https://img.shields.io/badge/Hono-%23F0F0F0.svg?style=for-the-badge&logo=hono&logoColor=black" title="Hono" alt="Hono"/>&nbsp;
+    <img src="https://img.shields.io/badge/Drizzle-%23000000.svg?style=for-the-badge&logo=drizzle&logoColor=white" title="Drizzle" alt="Drizzle"/>&nbsp;
+    <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL"/>&nbsp;
+
+
 <img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" title="Cloudflare" alt="Cloudflare"/>
 
 
