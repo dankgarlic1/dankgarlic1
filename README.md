@@ -44,18 +44,12 @@
     <img src="https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" title="npm" alt="npm"/>&nbsp;
     <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js" alt="Node.js"/>&nbsp;
     <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" title="Mongoose" alt="Mongoose"/>&nbsp;
-    <img src="https://img.shields.io/badge/Zod-512BD4?style=for-the-badge&logo=zod&logoColor=white" title="Zod" alt="Zod"/>&nbsp;
     <img src="https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" title="Yarn" alt="Yarn"/>&nbsp;
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>&nbsp;
-    <img src="https://img.shields.io/badge/Waffle-%23ff69b4.svg?style=for-the-badge&logo=waffle&logoColor=white" title="Waffle" alt="Waffle"/>&nbsp;
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" title="React" alt="React"/>&nbsp;
     <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" title="Next.js" alt="Next.js"/>&nbsp;
-    <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" title="Recoil" alt="Recoil"/>&nbsp;
-    <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" title="AWS" alt="AWS"/>&nbsp;
-    <img src="https://img.shields.io/badge/Google%20API-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" title="Google API" alt="Google API"/>&nbsp;
     <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy" alt="NumPy"/>&nbsp;
     <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" alt="Pandas"/>&nbsp;
-    <img src="https://img.shields.io/badge/Seaborn-%230A3D62.svg?style=for-the-badge&logo=seaborn&logoColor=white" title="Seaborn" alt="Seaborn"/>&nbsp;
     <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;
 <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Tailwind CSS" alt="Tailwind CSS"/>&nbsp;
 <img src="https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" title="Prisma" alt="Prisma"/>&nbsp;
@@ -63,11 +57,16 @@
 <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript"/>&nbsp;
 <img src="https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" title="Material-UI" alt="Material-UI"/>&nbsp;
     <img src="https://img.shields.io/badge/Hono-%23F0F0F0.svg?style=for-the-badge&logo=hono&logoColor=black" title="Hono" alt="Hono"/>&nbsp;
+    <img src="https://img.shields.io/badge/Kinde-%23E0A82E.svg?style=for-the-badge&logo=kinde&logoColor=white" title="Kinde" alt="Kinde"/>&nbsp;
+<img src="https://img.shields.io/badge/Pinecone-%233BBEFF.svg?style=for-the-badge&logo=pinecone&logoColor=white" title="Pinecone" alt="Pinecone"/>&nbsp;
+<img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" title="AWS" alt="AWS"/>&nbsp;
     <img src="https://img.shields.io/badge/Drizzle-%23000000.svg?style=for-the-badge&logo=drizzle&logoColor=white" title="Drizzle" alt="Drizzle"/>&nbsp;
     <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL"/>&nbsp;
 
 
-<img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" title="Cloudflare" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" title="Cloudflare" alt="Cloudflare"/>&nbsp;
+<img src="https://img.shields.io/badge/Clerk-%23001EF1.svg?style=for-the-badge&logo=clerk&logoColor=white" title="Clerk" alt="Clerk"/>
+
 
 
     
