@@ -51,25 +51,19 @@
     <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy" alt="NumPy"/>&nbsp;
     <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" alt="Pandas"/>&nbsp;
     <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;
-<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Tailwind CSS" alt="Tailwind CSS"/>&nbsp;
-<img src="https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" title="Prisma" alt="Prisma"/>&nbsp;
-<img src="https://img.shields.io/badge/OpenAI-%23434343.svg?style=for-the-badge&logo=openai&logoColor=white" title="OpenAI" alt="OpenAI"/>&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript"/>&nbsp;
-<img src="https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" title="Material-UI" alt="Material-UI"/>&nbsp;
+    <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Tailwind CSS" alt="Tailwind CSS"/>&nbsp;
+    <img src="https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" title="Prisma" alt="Prisma"/>&nbsp;
+    <img src="https://img.shields.io/badge/OpenAI-%23434343.svg?style=for-the-badge&logo=openai&logoColor=white" title="OpenAI" alt="OpenAI"/>&nbsp;
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript"/>&nbsp;
+    <img src="https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" title="Material-UI" alt="Material-UI"/>&nbsp;
     <img src="https://img.shields.io/badge/Hono-%23F0F0F0.svg?style=for-the-badge&logo=hono&logoColor=black" title="Hono" alt="Hono"/>&nbsp;
     <img src="https://img.shields.io/badge/Kinde-%23E0A82E.svg?style=for-the-badge&logo=kinde&logoColor=white" title="Kinde" alt="Kinde"/>&nbsp;
-<img src="https://img.shields.io/badge/Pinecone-%233BBEFF.svg?style=for-the-badge&logo=pinecone&logoColor=white" title="Pinecone" alt="Pinecone"/>&nbsp;
-<img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" title="AWS" alt="AWS"/>&nbsp;
+    <img src="https://img.shields.io/badge/Pinecone-%233BBEFF.svg?style=for-the-badge&logo=pinecone&logoColor=white" title="Pinecone" alt="Pinecone"/>&nbsp;
+    <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" title="AWS" alt="AWS"/>&nbsp;
     <img src="https://img.shields.io/badge/Drizzle-%23000000.svg?style=for-the-badge&logo=drizzle&logoColor=white" title="Drizzle" alt="Drizzle"/>&nbsp;
     <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL"/>&nbsp;
-
-
-<img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" title="Cloudflare" alt="Cloudflare"/>&nbsp;
-<img src="https://img.shields.io/badge/Clerk-%23001EF1.svg?style=for-the-badge&logo=clerk&logoColor=white" title="Clerk" alt="Clerk"/>
-
-
-
-    
+    <img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" title="Cloudflare" alt="Cloudflare"/>&nbsp;
+    <img src="https://img.shields.io/badge/Clerk-%23001EF1.svg?style=for-the-badge&logo=clerk&logoColor=white" title="Clerk" alt="Clerk"/>
 </div>
 
 
