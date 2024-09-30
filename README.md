@@ -1,13 +1,16 @@
-# Hi there, I'm Harshit Raizada  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHg1dmsxaTdwcDR3MHR6d3ExdzRubHRscXZhaXhia3p1MTA1N2UzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/efaB8eipdYqiy2b3Kn/giphy.gif" width="75px"/>
+# Hi there, I'm Harshit Raizada <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHg1dmsxaTdwcDR3MHR6d3ExdzRubHRscXZhaXhia3p1MTA1N2UzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/efaB8eipdYqiy2b3Kn/giphy.gif" width="75px"/>
 
+<img src="https://raw.githubusercontent.com/dankgarlic1/dankgarlic1/output/snake.svg" alt="Snake animation" />
 
 # 💫 About Me:
+
 🌱 I’m a Full Stack Web and Flutter Developer<br>
 👯 I’m looking to collaborate with developers and founders<br>
 🥅 [2024] Goals: Learn more about the latest tech and build awesome applications<br>
-⚡ Fun fact: I am a Boxer🥊 
+⚡ Fun fact: I am a Boxer🥊
 
 # 🌐 Socials:
+
 <div>
     <a href="mailto:raizadaharshit2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
@@ -21,9 +24,9 @@
         <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
 </div>
- 
 
 # 💻 Tech Stack:
+
 <div>
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML5"/>&nbsp;
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" alt="CSS3"/>&nbsp;
@@ -66,21 +69,20 @@
     <img src="https://img.shields.io/badge/Clerk-%23001EF1.svg?style=for-the-badge&logo=clerk&logoColor=white" title="Clerk" alt="Clerk"/>
 </div>
 
-
-
-
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=dankgarlic1&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dankgarlic1&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dankgarlic1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🏆 GitHub Trophies:
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=dankgarlic1&theme=algolia&no-frame=true&no-bg=true&margin-w=4&title=-Stars,-Followers,-Issues,-Reviews)
 
 # 🕒 Wakatime Stats:
+
 ![Wakatime Stats](https://wakatime.com/share/@harshit1/3bbc4d6b-6346-40a4-bf03-5b5bf6396fef.svg)
 
-
 # ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
