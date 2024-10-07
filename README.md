@@ -1,15 +1,15 @@
 # Hi there, I'm Harshit Raizada <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHg1dmsxaTdwcDR3MHR6d3ExdzRubHRscXZhaXhia3p1MTA1N2UzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/efaB8eipdYqiy2b3Kn/giphy.gif" width="75px"/>
 
-# 🐍 Contributions:
-
-<img src="https://raw.githubusercontent.com/dankgarlic1/dankgarlic1/output/snake.svg" alt="Snake animation" />
-
 # 💫 About Me:
 
 🌱 I’m a Full Stack Web and Flutter Developer<br>
 👯 I’m looking to collaborate with developers and founders<br>
 🥅 [2024] Goals: Learn more about the latest tech and build awesome applications<br>
 ⚡ Fun fact: I am a Boxer🥊
+
+# 🐍 Contributions:
+
+<img src="https://raw.githubusercontent.com/dankgarlic1/dankgarlic1/output/snake.svg" alt="Snake animation" />
 
 # 🌐 Socials:
 
@@ -80,6 +80,10 @@
 # 🏆 GitHub Trophies:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=dankgarlic1&theme=algolia&no-frame=true&no-bg=true&margin-w=4&title=-Stars,-Followers,-Issues,-Reviews)
+
+# Contribution Graph:
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dankgarlic1&theme=react-dark)](https://github.com/dankgarlic1/github-readme-activity-graph)
 
 # 🕒 Wakatime Stats:
 
