@@ -7,6 +7,11 @@
 🥅 [2024] Goals: Learn more about the latest tech and build awesome applications<br>
 ⚡ Fun fact: I am a Boxer🥊
 
+# 👨‍💻 Run this Command:
+```bash
+npx hi-harshit
+```
+
 # 🐍 Contributions:
 
 <img src="https://raw.githubusercontent.com/dankgarlic1/dankgarlic1/output/snake.svg" alt="Snake animation" />
