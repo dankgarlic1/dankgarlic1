@@ -6,7 +6,6 @@
 🌐 I'm the Web Dev Lead for my GDG on campus, where I organize and lead projects and workshops for aspiring developers <br>
 👯 I’m looking to collaborate with developers and founders<br>
 🥅 [2024] Goals: Learn more about the latest tech and build awesome applications<br>
-⚡ Fun fact: I am a Boxer🥊
 
 # 👨‍💻 Run this Command:
 ```bash
