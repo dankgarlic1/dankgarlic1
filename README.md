@@ -7,10 +7,7 @@
 👯 I’m looking to collaborate with developers and founders<br>
 🥅 [2024] Goals: Learn more about the latest tech and build awesome applications<br>
 
-# 👨‍💻 Run this Command:
-```bash
-npx hi-harshit
-```
+
 
 # 🐍 Contributions:
 
