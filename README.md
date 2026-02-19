@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🌱 I’m a Full Stack Web and Flutter Developer<br>
+🌱 I’m a Backend Developer<br>
 🌐 I'm the Web Dev Lead for my GDG on campus, where I organize and lead projects and workshops for aspiring developers <br>
 👯 I’m looking to collaborate with developers and founders<br>
 🥅 [2026] Goals: Build crazy good products<br>
